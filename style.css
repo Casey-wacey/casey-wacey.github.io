@@ -1,0 +1,9 @@
+body {
+    background-image: -webkit-linear-gradient(rgb(178, 178, 178), grey, #3c3c3c);
+    height: 100vh;
+}
+center {
+    background: -webkit-linear-gradient(purple, rgb(109, 0, 188), blue, rgb(0, 138, 212), cyan);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
