@@ -20,7 +20,11 @@ body {
 a {
     color: red;
 }
-
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .story {
     -webkit-text-stroke-width: 0.5px;
     background-color: black;

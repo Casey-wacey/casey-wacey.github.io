@@ -28,6 +28,7 @@ a {
     font-style: italic;
 }
 .kerbin{
+    margin: 5vh;
     height: 100vh;
     background-image: url(media/kerbin.png);
     background-size: cover;
