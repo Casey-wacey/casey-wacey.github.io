@@ -9,7 +9,6 @@ body {
 }
 .flag {
     height: 100vh;
-    width: 100vw;
     background-image: url(media/flag.webp);
     background-size: cover;
     position: relative;
