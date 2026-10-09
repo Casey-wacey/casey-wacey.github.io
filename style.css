@@ -20,6 +20,7 @@ center {
     z-index: 2;
     background-color: rgb(0, 0, 0, 0.5);
     border-radius: 20px;
+    margin-top: 50vh;
 }
 a {
     color: cyan;
